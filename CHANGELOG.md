@@ -1,8 +1,22 @@
 # Changelog
 
-Docs: https://docs.openclaw.ai
+Docs: https://www.ghostbsd.org
 
-## Unreleased
+## Unreleased (GhostBSD 27.1)
+
+### Changes
+
+- Casper: rebrand from OpenClaw to Casper for GhostBSD integration
+- Casper: ship as part of the default GhostBSD 27.1 installation — no setup required
+- Casper: set Claude (Anthropic) as the default AI backend
+- Casper: add MATE desktop panel applet integration
+- Casper: add rc.d service for automatic startup with GhostBSD
+- Casper: add automated bug reporting with system logs, hardware details, and reproduction steps
+- Casper: add automated fix proposals that open pull requests for human review
+- Casper: rename CLI binary from `openclaw` to `casper`
+- Casper: update default workspace path to `~/.casper/`
+
+## Unreleased (upstream)
 
 ### Changes
 

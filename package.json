@@ -1,20 +1,20 @@
 {
-  "name": "openclaw",
+  "name": "casper",
   "version": "2026.4.1",
-  "description": "Multi-channel AI gateway with extensible messaging integrations",
+  "description": "GhostBSD's built-in AI assistant — local, private, and always on",
   "keywords": [],
-  "homepage": "https://github.com/openclaw/openclaw#readme",
+  "homepage": "https://github.com/ghostbsd/casper#readme",
   "bugs": {
-    "url": "https://github.com/openclaw/openclaw/issues"
+    "url": "https://github.com/ghostbsd/casper/issues"
   },
   "license": "MIT",
   "author": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openclaw/openclaw.git"
+    "url": "git+https://github.com/ghostbsd/casper.git"
   },
   "bin": {
-    "openclaw": "openclaw.mjs"
+    "casper": "casper.mjs"
   },
   "directories": {
     "doc": "docs",
@@ -23,7 +23,7 @@
   "files": [
     "CHANGELOG.md",
     "LICENSE",
-    "openclaw.mjs",
+    "casper.mjs",
     "README.md",
     "assets/",
     "dist/",
